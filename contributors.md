@@ -6,7 +6,7 @@
 1. HTML
 2. CSS
 3. JavaScript
-4. Bootstrap (Any framework of choice
+4. Bootstrap (Any framework of choice)
 
 ### ● Back End:
 a. Node.js
@@ -61,6 +61,7 @@ being authenticated
  ○ One cannot edit or delete posts and comments created
 by other users
  ○ Admin can manage all posts and comments
+ 
 ### ● Manage posts with basic functionalities:
 ○ Create, edit and delete posts and comments
 ○ Upload places photos
